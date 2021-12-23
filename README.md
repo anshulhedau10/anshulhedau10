@@ -1,18 +1,17 @@
 
-### Hi There, Welcome To My GitHub 👋
-
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There, Welcome To My GitHub 
 <img src=Banner.png>
 
-<br>
+<br/>
 
-### About Me
+## 🙋‍♂️ About Me
 - 🏫 I am currently a student at YCCE, Nagpur.
 - 🌱 I am currently learning Machine Learning, Web Development, Figma, Salesforce.
 - ✨ Interested in Data Science.
 
-<br>
+<br/>
 
-### Languages And Tools I Have Used
+## 🚀 Languages And Tools I Have Used
 [<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][vscode]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
@@ -26,28 +25,19 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" />][heroku]
 [<img align="left" alt="Salesforce" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" />][salesforce]
-    
-<br><br>
 
-<p align="left">
-<details>
-  <summary>:zap: My GitHub Stats</summary>
-  
-  ![Anshul Hedau's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight)
-  
-</details>
+<br/><br/><br/>
 
-<details>
-  <summary>:zap: Most Languages Used</summary>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight)
-  
-</details>
-</p>
+## 📊 My GitHub Stats
 
-<br>
+![Anshul Hedau's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight&layout=compact)
 
-### Connect With Me 
+
+<br/>
+
+## 📱 Connect With Me 
+
 [<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
