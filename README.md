@@ -1,38 +1,35 @@
-# Hi There, Welcome To My GitHub 👋
+
+### Hi There, Welcome To My GitHub 👋
+
 <img src=Banner.png>
 
 <br>
 
-## About Me
+### About Me
 - 🏫 I am currently a student at YCCE, Nagpur.
 - 🌱 I am currently learning Machine Learning, Web Development, Figma, Salesforce.
 - ✨ Interested in Data Science.
 
-<br />
+<br>
 
-## Languages And Tools I Have Used
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <!-- figma -->
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="css3" width="40" height="40"/></a>
-  <!-- mysql -->
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <!-- jupyter -->
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <!-- git -->
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <!-- heroku -->
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-</p> 
+### Languages And Tools I Have Used
+[<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
+[<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
+[<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][bootstrap]
+[<img align="left" alt="Figma" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][figma]
+[<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
+[<img align="left" alt="Jupyter" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />][jupyter]
+[<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />][github]
+[<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" />][heroku]
+[<img align="left" alt="Salesforce" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" />][salesforce]
     
-<br />
+<br><br>
 
+<p align="left">
 <details>
   <summary>:zap: My GitHub Stats</summary>
   
@@ -46,15 +43,36 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight)
   
 </details>
+</p>
 
-<br />
+<br>
 
-## Connect With Me 
-<a href="https://www.linkedin.com/in/anshulhedau10/"><img src=linkedin.png height="30" width="30"> </a>
-    
-    
+### Connect With Me 
+[<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
 
-  <!--
+
+[cpp]: https://www.w3schools.com/cpp/
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/
+[html]: https://www.w3.org/html/
+[css]: https://www.w3schools.com/css/
+[bootstrap]: https://getbootstrap.com/
+[figma]: https://www.figma.com/
+[mysql]: https://www.mysql.com/
+[jupyter]: https://jupyter.org/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[heroku]: https://heroku.com/
+[salesforce]: https://www.salesforce.com/in/
+[linkedin]: https://www.linkedin.com/in/anshulhedau10/
+[twitter]: https://twitter.com/anshulhedau10/
+[instagram]: https://www.instagram.com/anshulhedau10/
+
+
+
+<!--
 **anshulhedau10/anshulhedau10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
