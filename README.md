@@ -1,4 +1,3 @@
-
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There, Welcome To My GitHub 
 <img src=Banner.png>
 
@@ -30,18 +29,28 @@
 
 ## 📊 My GitHub Stats
 
-![Anshul Hedau's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight&layout=compact)
+![Anshul Hedau's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight&border_radius=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulhedau10&show_icons=true&hide_border=true&theme=tokyonight&layout=compact&border_radius=30)
+<br/>
 
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+
+<img alt="Anshul Hedau's Activity Graph" src="https://blooming-thicket-56744.herokuapp.com/graph?username=anshulhedau10&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&border_radius=30" />
 
 <br/>
 
 ## 📱 Connect With Me 
 
-[<img align="left" alt="Linkedin" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" />][twitter]
-[<img align="left" alt="Instagram" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Linkedin" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
+<br/><br/>
+
+## ❤ Views and Followers
+<img align="left" alt="Profile Views" src="https://komarev.com/ghpvc/?username=anshulhedau10" />
+<img align="left" alt="Followers" src="https://img.shields.io/github/followers/anshulhedau10?label=Followers&style=social" />
 
 [cpp]: https://www.w3schools.com/cpp/
 [vscode]: https://code.visualstudio.com/
