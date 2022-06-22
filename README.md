@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi There, Welcome To My GitHub 
+## 👋🏻 Hi There, Welcome To My GitHub 
 <img src=Banner.png>
 
 <br/>
