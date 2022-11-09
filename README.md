@@ -4,26 +4,29 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🏫 I am currently a student at YCCE, Nagpur.
-- 🌱 I am currently learning Machine Learning, Web Development, Figma, Salesforce.
-- ✨ Interested in Data Science.
+- 🏫 I am a 2022 graduate from YCCE, Nagpur.
+- 🌱 I am currently learning Azure, .Net, Web Development, Figma.
+- ✨ Interested in Data Science, Web development.
 
 <br/>
 
 ## 🚀 Languages And Tools I Have Used
 [<img align="left" alt="CPP" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />][vs]
 [<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
 [<img align="left" alt="HTML" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html]
 [<img align="left" alt="CSS" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css]
-[<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />][bootstrap]
-[<img align="left" alt="Figma" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][figma]
+[<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />][bootstrap]
+[<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />][figma]
 [<img align="left" alt="MySQL" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][mysql]
 [<img align="left" alt="Jupyter" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" />][jupyter]
 [<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />][github]
 [<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" />][heroku]
 [<img align="left" alt="Salesforce" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg" />][salesforce]
+[<img align="left" alt="Azure" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" />][azure]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" />][angular]
 
 <br/><br/><br/>
 
@@ -34,9 +37,6 @@
 <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-
-<img alt="Anshul Hedau's Activity Graph" src="https://blooming-thicket-56744.herokuapp.com/graph?username=anshulhedau10&bg_color=1A1B27&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&border_radius=30" />
 
 <br/>
 
@@ -68,6 +68,9 @@
 [linkedin]: https://www.linkedin.com/in/anshulhedau10/
 [twitter]: https://twitter.com/anshulhedau10/
 [instagram]: https://www.instagram.com/anshulhedau10/
+[azure]: https://azure.microsoft.com/en-in/
+[vs]: https://visualstudio.microsoft.com/
+[angular]: https://angular.io/
 
 
 
