@@ -4,9 +4,9 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 🏫 I am a 2022 graduate from YCCE, Nagpur.
-- 🌱 I am currently learning Azure, .Net, Web Development, Figma.
-- ✨ Interested in Data Science, Web development.
+- 💻 I am a Senior Software Engineer at Capgemini with 1.5 years of total experience.
+- 🌱 I am currently working on Azure, Python, Microsoft Power Platform.
+- ✨ Interested in Data Science, Web development, Cloud Technologies.
 
 <br/>
 
